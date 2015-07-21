@@ -17,7 +17,7 @@ public class HomeView {
         // Display menu graphics
         System.out.println();			        
         System.out.println("              *****************************************                  ");
-        System.out.println("              |            Command Menu               |                  ");
+        System.out.println("              |            Command Menu HACK          |                  ");
         System.out.println("              *****************************************                  ");
         System.out.println("              | Options:                              |                  ");
         System.out.println("              |        1. User Data Entry             |                  ");
